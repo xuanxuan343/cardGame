@@ -1,0 +1,76 @@
+
+UI_huoqujinbi.png
+size: 256,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoqujinbi_00000
+  rotate: false
+  xy: 209, 10
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+huoqujinbi_00001
+  rotate: true
+  xy: 209, 29
+  size: 21, 20
+  orig: 23, 23
+  offset: 1, 2
+  index: -1
+huoqujinbi_00002
+  rotate: false
+  xy: 209, 52
+  size: 36, 37
+  orig: 40, 41
+  offset: 2, 2
+  index: -1
+huoqujinbi_00003
+  rotate: true
+  xy: 209, 91
+  size: 50, 45
+  orig: 53, 49
+  offset: 2, 3
+  index: -1
+huoqujinbi_00004
+  rotate: true
+  xy: 154, 3
+  size: 69, 53
+  orig: 73, 57
+  offset: 2, 3
+  index: -1
+huoqujinbi_00005
+  rotate: false
+  xy: 2, 4
+  size: 73, 59
+  orig: 77, 66
+  offset: 2, 5
+  index: -1
+huoqujinbi_00006
+  rotate: false
+  xy: 77, 2
+  size: 75, 65
+  orig: 79, 71
+  offset: 2, 4
+  index: -1
+huoqujinbi_00007
+  rotate: true
+  xy: 77, 69
+  size: 72, 68
+  orig: 79, 78
+  offset: 3, 6
+  index: -1
+huoqujinbi_00008
+  rotate: true
+  xy: 2, 65
+  size: 76, 73
+  orig: 82, 80
+  offset: 3, 3
+  index: -1
+huoqujinbi_00009
+  rotate: true
+  xy: 147, 74
+  size: 67, 60
+  orig: 75, 66
+  offset: 4, 2
+  index: -1

@@ -1,0 +1,342 @@
+
+Panda.png
+size: 332,806
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Arm
+  rotate: true
+  xy: 2, 2
+  size: 102, 167
+  orig: 102, 167
+  offset: 0, 0
+  index: -1
+B_Bamboo_A
+  rotate: true
+  xy: 183, 223
+  size: 66, 138
+  orig: 66, 138
+  offset: 0, 0
+  index: -1
+B_Bamboo_B
+  rotate: true
+  xy: 2, 106
+  size: 57, 171
+  orig: 57, 171
+  offset: 0, 0
+  index: -1
+B_Bamboo_C
+  rotate: true
+  xy: 183, 193
+  size: 28, 134
+  orig: 28, 134
+  offset: 0, 0
+  index: -1
+B_Basket
+  rotate: false
+  xy: 226, 291
+  size: 104, 172
+  orig: 104, 172
+  offset: 0, 0
+  index: -1
+B_Belt
+  rotate: false
+  xy: 2, 537
+  size: 226, 67
+  orig: 226, 67
+  offset: 0, 0
+  index: -1
+B_Leaf_A
+  rotate: false
+  xy: 186, 294
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+B_Leaf_B
+  rotate: true
+  xy: 182, 68
+  size: 19, 69
+  orig: 19, 69
+  offset: 0, 0
+  index: -1
+B_Leaf_C
+  rotate: true
+  xy: 171, 3
+  size: 17, 44
+  orig: 17, 44
+  offset: 0, 0
+  index: -1
+B_Leaf_D
+  rotate: true
+  xy: 218, 39
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+B_Leaf_E
+  rotate: true
+  xy: 295, 11
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+B_Mouth_Victory
+  rotate: true
+  xy: 218, 14
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+B_Neck
+  rotate: true
+  xy: 187, 498
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+Badge
+  rotate: true
+  xy: 247, 8
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Badgedrop
+  rotate: true
+  xy: 253, 57
+  size: 30, 50
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 606
+  size: 226, 198
+  orig: 226, 198
+  offset: 0, 0
+  index: -1
+Chain
+  rotate: false
+  xy: 249, 29
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+F_Bamboo
+  rotate: false
+  xy: 2, 304
+  size: 182, 113
+  orig: 182, 113
+  offset: 0, 0
+  index: -1
+F_Belt
+  rotate: true
+  xy: 171, 22
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+F_Leaf_A
+  rotate: false
+  xy: 186, 351
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+F_Leaf_B
+  rotate: true
+  xy: 309, 95
+  size: 71, 21
+  orig: 71, 21
+  offset: 0, 0
+  index: -1
+F_Mouth_Victory
+  rotate: true
+  xy: 319, 168
+  size: 31, 9
+  orig: 31, 9
+  offset: 0, 0
+  index: -1
+F_Neck
+  rotate: true
+  xy: 230, 465
+  size: 220, 92
+  orig: 220, 92
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 165
+  size: 179, 137
+  orig: 179, 137
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: true
+  xy: 2, 419
+  size: 116, 183
+  orig: 116, 183
+  offset: 0, 0
+  index: -1
+L_Beltdrop
+  rotate: false
+  xy: 187, 430
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+L_Ear
+  rotate: true
+  xy: 305, 38
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+L_Eye_Close
+  rotate: true
+  xy: 328, 794
+  size: 10, 2
+  orig: 10, 2
+  offset: 0, 0
+  index: -1
+L_Eye_Close_Attacked
+  rotate: true
+  xy: 324, 628
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+L_Eye_Close_Death
+  rotate: false
+  xy: 309, 183
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+L_Eye_Open
+  rotate: false
+  xy: 319, 211
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+L_Eye_Victory
+  rotate: true
+  xy: 324, 616
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+L_Eyebrow
+  rotate: true
+  xy: 171, 87
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 183, 89
+  size: 124, 102
+  orig: 124, 102
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 187, 482
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+Mouth_Attack
+  rotate: true
+  xy: 324, 656
+  size: 29, 6
+  orig: 29, 6
+  offset: 0, 0
+  index: -1
+Mouth_Attacked
+  rotate: false
+  xy: 186, 341
+  size: 34, 8
+  orig: 34, 8
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 269, 13
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+R_Beltdrop
+  rotate: false
+  xy: 187, 380
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+R_Ear
+  rotate: true
+  xy: 309, 69
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+R_Eye_Close
+  rotate: true
+  xy: 328, 784
+  size: 8, 2
+  orig: 8, 2
+  offset: 0, 0
+  index: -1
+R_Eye_Close _Death
+  rotate: false
+  xy: 323, 265
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+R_Eye_Close_Attacked
+  rotate: true
+  xy: 324, 606
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+R_Eye_Open
+  rotate: true
+  xy: 319, 201
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+R_Eye_Victory
+  rotate: true
+  xy: 324, 596
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+R_Eyebrow
+  rotate: true
+  xy: 323, 274
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: true
+  xy: 230, 687
+  size: 117, 96
+  orig: 117, 96
+  offset: 0, 0
+  index: -1
+Tooth_Victory
+  rotate: true
+  xy: 324, 640
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1

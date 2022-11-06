@@ -1,0 +1,181 @@
+
+PetSkill_zhongxinhuzhu.png
+size: 529,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Shield
+  rotate: false
+  xy: 399, 53
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+B_Shieldlight_a
+  rotate: true
+  xy: 306, 14
+  size: 75, 91
+  orig: 77, 95
+  offset: 1, 2
+  index: -1
+B_Shieldlight_b
+  rotate: false
+  xy: 2, 2
+  size: 168, 171
+  orig: 199, 209
+  offset: 16, 20
+  index: -1
+F_Shield
+  rotate: true
+  xy: 399, 17
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+Light_a
+  rotate: false
+  xy: 274, 4
+  size: 29, 29
+  orig: 31, 31
+  offset: 1, 1
+  index: -1
+Light_b
+  rotate: false
+  xy: 396, 115
+  size: 60, 60
+  orig: 62, 62
+  offset: 1, 1
+  index: -1
+Light_c
+  rotate: false
+  xy: 454, 745
+  size: 66, 66
+  orig: 68, 68
+  offset: 1, 1
+  index: -1
+Light_d
+  rotate: false
+  xy: 458, 115
+  size: 60, 60
+  orig: 62, 62
+  offset: 1, 1
+  index: -1
+Light_e
+  rotate: false
+  xy: 502, 324
+  size: 25, 25
+  orig: 27, 27
+  offset: 1, 1
+  index: -1
+Rainbow_a
+  rotate: false
+  xy: 502, 351
+  size: 24, 82
+  orig: 28, 89
+  offset: 2, 3
+  index: -1
+Rainbow_b
+  rotate: true
+  xy: 420, 177
+  size: 30, 97
+  orig: 36, 106
+  offset: 2, 5
+  index: -1
+Rainbow_c
+  rotate: true
+  xy: 172, 2
+  size: 31, 100
+  orig: 35, 107
+  offset: 2, 4
+  index: -1
+Rainbow_d
+  rotate: true
+  xy: 446, 82
+  size: 31, 72
+  orig: 35, 80
+  offset: 2, 4
+  index: -1
+Ray_a
+  rotate: false
+  xy: 302, 186
+  size: 116, 95
+  orig: 152, 125
+  offset: 33, 10
+  index: -1
+Ray_b
+  rotate: false
+  xy: 454, 813
+  size: 49, 103
+  orig: 66, 113
+  offset: 5, 4
+  index: -1
+Ray_c
+  rotate: true
+  xy: 420, 209
+  size: 72, 107
+  orig: 85, 120
+  offset: 6, 8
+  index: -1
+Ray_d
+  rotate: true
+  xy: 454, 918
+  size: 116, 72
+  orig: 128, 93
+  offset: 4, 5
+  index: -1
+Ray_e
+  rotate: false
+  xy: 306, 91
+  size: 88, 93
+  orig: 98, 107
+  offset: 6, 5
+  index: -1
+Ray_f
+  rotate: false
+  xy: 172, 35
+  size: 132, 138
+  orig: 145, 153
+  offset: 8, 6
+  index: -1
+Shards
+  rotate: true
+  xy: 334, 737
+  size: 297, 118
+  orig: 297, 118
+  offset: 0, 0
+  index: -1
+Sphere
+  rotate: true
+  xy: 304, 435
+  size: 300, 209
+  orig: 300, 209
+  offset: 0, 0
+  index: -1
+Spherelight
+  rotate: false
+  xy: 2, 758
+  size: 330, 276
+  orig: 330, 276
+  offset: 0, 0
+  index: -1
+Sphereoutline_a
+  rotate: false
+  xy: 2, 175
+  size: 298, 279
+  orig: 298, 298
+  offset: 0, 19
+  index: -1
+Sphereoutline_b
+  rotate: false
+  xy: 2, 456
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Sphererefleaction
+  rotate: false
+  xy: 302, 283
+  size: 198, 150
+  orig: 198, 150
+  offset: 0, 0
+  index: -1

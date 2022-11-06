@@ -1,0 +1,328 @@
+
+Dog.png
+size: 475,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Cape
+  rotate: false
+  xy: 2, 214
+  size: 227, 307
+  orig: 227, 307
+  offset: 0, 0
+  index: -1
+B_Mouth_Victory
+  rotate: false
+  xy: 429, 26
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+B_Sword
+  rotate: false
+  xy: 377, 58
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+Belt
+  rotate: false
+  xy: 2, 11
+  size: 165, 58
+  orig: 165, 58
+  offset: 0, 0
+  index: -1
+Body_a
+  rotate: false
+  xy: 2, 71
+  size: 152, 141
+  orig: 152, 141
+  offset: 0, 0
+  index: -1
+Body_b
+  rotate: true
+  xy: 156, 82
+  size: 130, 64
+  orig: 130, 64
+  offset: 0, 0
+  index: -1
+CapeHaed
+  rotate: true
+  xy: 222, 64
+  size: 110, 88
+  orig: 110, 88
+  offset: 0, 0
+  index: -1
+Chin
+  rotate: true
+  xy: 455, 98
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: true
+  xy: 314, 237
+  size: 125, 46
+  orig: 125, 46
+  offset: 0, 0
+  index: -1
+CollarBell
+  rotate: false
+  xy: 423, 97
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+F_Mouth_Victory
+  rotate: true
+  xy: 459, 272
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+F_Sword
+  rotate: false
+  xy: 362, 304
+  size: 109, 72
+  orig: 109, 72
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 350, 378
+  size: 143, 121
+  orig: 143, 121
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: true
+  xy: 362, 238
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+L_CapeEar
+  rotate: false
+  xy: 312, 55
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+L_Ear
+  rotate: false
+  xy: 169, 10
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+L_Eye_Attacked
+  rotate: true
+  xy: 459, 255
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+L_Eye_Close_Death
+  rotate: false
+  xy: 350, 366
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+L_Eye_Close_Idle
+  rotate: false
+  xy: 440, 238
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+L_Eye_Open
+  rotate: false
+  xy: 449, 56
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+L_Eye_Victory
+  rotate: false
+  xy: 447, 174
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+L_Eyebrow
+  rotate: false
+  xy: 455, 77
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+L_Feet
+  rotate: true
+  xy: 423, 129
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 314, 173
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 369, 97
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+Mouth_Attack
+  rotate: true
+  xy: 430, 54
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+Mouth_Attacked
+  rotate: true
+  xy: 447, 211
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+Mouth_Death
+  rotate: false
+  xy: 380, 5
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+Mouth_Idle
+  rotate: true
+  xy: 440, 251
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 447, 184
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 374, 174
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+R_CapeEar
+  rotate: true
+  xy: 285, 2
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+R_Ear
+  rotate: true
+  xy: 310, 2
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+R_Eye_Attacked
+  rotate: false
+  xy: 156, 71
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+R_Eye_Close _Death
+  rotate: false
+  xy: 464, 24
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+R_Eye_Close_Idle
+  rotate: false
+  xy: 450, 24
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+R_Eye_Open
+  rotate: false
+  xy: 417, 2
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+R_Eye_Victory
+  rotate: false
+  xy: 2, 3
+  size: 11, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+R_Eyebrow
+  rotate: false
+  xy: 450, 35
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+R_Feet
+  rotate: false
+  xy: 380, 19
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 222, 2
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 312, 94
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: false
+  xy: 231, 176
+  size: 81, 186
+  orig: 81, 186
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 231, 364
+  size: 117, 157
+  orig: 125, 157
+  offset: 0, 0
+  index: -1
+Tongue_Death
+  rotate: false
+  xy: 432, 8
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Tooth_Victory
+  rotate: true
+  xy: 222, 200
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
